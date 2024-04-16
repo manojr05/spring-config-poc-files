@@ -1,1 +1,2 @@
-
+greeting:
+  message: Updated greeting from config client server -dev
